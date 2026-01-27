@@ -11,14 +11,14 @@
 ---
 
 ## 📋 Table of Contents
-1. [Team Members](#team-members)
-2. [Project Overview](#project-overview)
-3. [Data & Preprocessing](#data--preprocessing)
-4. [Models Implemented](#models-implemented)
-5. [Performance Comparison](#performance-comparison)
-6. [Ensemble & Final Results](#ensemble--final-results)
-7. [Repository Structure](#repository-structure)
-8. [How to Run](#how-to-run)
+1. [Team Members](#-team-members)
+2. [Project Overview](#-project-overview)
+3. [Data & Preprocessing](#-data--preprocessing)
+4. [Models Implemented](#-models-implemented)
+5. [Performance Comparison](#-performance-comparison)
+6. [Ensemble & Final Results](#-ensemble--final-results)
+7. [Repository Structure](#-repository-structure)
+8. [How to Run](#-how-to-run)
 
 ---
 
