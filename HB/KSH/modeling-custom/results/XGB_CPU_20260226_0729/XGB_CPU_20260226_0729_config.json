@@ -1,0 +1,28 @@
+{
+    "objective": "binary:logistic",
+    "eval_metric": "aucpr",
+    "learning_rate": 0.08,
+    "max_depth": 6,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "n_estimators": 500,
+    "early_stopping_rounds": 30,
+    "tree_method": "hist",
+    "min_child_weight": 3,
+    "reg_lambda": 5,
+    "reg_alpha": 1,
+    "device": "cuda",
+    "NEG_RATIO": 1,
+    "OUTPUT_PREFIX": "XGB_CPU_20260226_0729",
+    "SEEDS": [
+        42,
+        106,
+        1031
+    ],
+    "USE_COUNT_FEATURES": true,
+    "USE_GROUPBY_FEATURES": true,
+    "USE_INTERACTION_FEATURES": true,
+    "USE_SEQ_FEATURES": false,
+    "USE_SEQ_FEATURES_V2": true,
+    "VALID_RATIO": 0.2
+}
